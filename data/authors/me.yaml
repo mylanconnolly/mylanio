@@ -1,0 +1,43 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Mylan Connolly
+  given: Mylan
+  family: Connolly
+postnominals: []
+status:
+  icon: "💻"
+role: Software Developer
+email: mylan@mylan.io
+bio: |
+  Software developer passionate about building great tools and applications.
+
+affiliations: []
+
+links:
+  - icon: at-symbol
+    url: mailto:mylan@mylan.io
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/mylanconnolly
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/mylan.io
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mylanconnolly
+
+interests:
+  - Backend Development
+  - Web Applications
+  - Developer Tools
+  - Open Source
+
+education: []
+
+experience: []
+
+skills: []
+
+languages: []
+
+awards: []

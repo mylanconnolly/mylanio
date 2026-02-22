@@ -1,0 +1,89 @@
+hugoblox:
+  schema: "2.0"
+
+  identity:
+    name: "Mylan Connolly"
+    organization: ""
+    type: person
+    tagline: "Software Developer"
+    description: "Developer portfolio showcasing projects, technical blog posts, and experience. Built with Hugo Blox."
+    social:
+      twitter: ""
+
+  theme:
+    mode: system
+    pack: "default"
+    colors:
+      primary: ""
+      secondary: ""
+      neutral: ""
+    colors_light: {}
+    colors_dark: {}
+    surfaces:
+      background: ""
+      foreground: ""
+      header:
+        background: ""
+        foreground: ""
+      footer:
+        background: ""
+        foreground: ""
+
+  typography:
+    font: "sans"
+    size: "md"
+
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
+
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: true
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+
+  copyright:
+    notice: "© {year} {name}"
+    license:
+      type: ""
+
+  seo:
+    title: ""
+
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+    citations:
+      style: apa
+
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+
+  comments:
+    enable: false
+    provider: ""
+
+  analytics:
+    google:
+      measurement_id: ""
